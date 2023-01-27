@@ -1,0 +1,21 @@
+.contenedor{
+    width: 15rem;
+    margin-bottom: 1rem;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 3rem;
+    line-height: 2rem;
+    background-color: rgb(158, 181, 230);
+}
+#mensaje{
+width: 15rem;
+height: 5rem;
+background-color: rgb(134, 212, 180);
+border: 1px dashed rgb(12, 19, 16);
+}
+#calcula{
+    margin-top: 2rem;
+    padding: 0.3rem 0.5rem;
+    background-color: blue;
+    color:white;
+}
